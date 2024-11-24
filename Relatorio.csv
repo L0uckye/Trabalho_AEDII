@@ -1,0 +1,1123 @@
+paciente de ID:53810 faltou 1 vez e consulta postergada
+Consultas no dia 1 na 1ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|42908|1ª Consulta
+SA102|Médico2|Psicologia|Beatriz|93809|1ª Consulta
+SA103|Médico4|Clinico Geral|Beatriz|11239|1ª Consulta
+SA201|Médico5|Clinico Geral|Ricardo|20722|1ª Consulta
+SA202|Médico6|Cardiologista|Carlos|43498|1ª Consulta
+SA203|Médico8|Otorrino|Ana|28409|1ª Consulta
+SA301|Médico9|Psiquiatra|Ricardo|75476|1ª Consulta
+SA302|Médico10|Psiquiatra|Maria|21071|1ª Consulta
+SA303|Médico11|Endócrino|Pedro|60783|1ª Consulta
+
+Consultas no dia 1 na 2ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|67576|1ª Consulta
+SA102|Médico2|Psicologia|Carlos|45669|1ª Consulta
+SA103|Médico4|Clinico Geral|Beatriz|91515|1ª Consulta
+SA201|Médico6|Cardiologista|Beatriz|54969|1ª Consulta
+SA202|Médico7|Cardiologista|Pedro|81439|1ª Consulta
+SA203|Médico8|Otorrino|João|35194|1ª Consulta
+SA301|Médico9|Psiquiatra|Ricardo|48531|1ª Consulta
+SA302|Médico10|Psiquiatra|Lucas|64683|1ª Consulta
+SA303|Médico11|Endócrino|Pedro|74476|1ª Consulta
+
+Consultas no dia 1 na 3ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Lucas|13191|1ª Consulta
+SA102|Médico2|Psicologia|Ana|35951|1ª Consulta
+SA103|Médico4|Clinico Geral|Maria|66615|1ª Consulta
+SA201|Médico5|Clinico Geral|Ricardo|79419|1ª Consulta
+SA202|Médico6|Cardiologista|Maria|38743|1ª Consulta
+SA203|Médico7|Cardiologista|Carlos|53151|1ª Consulta
+SA301|Médico8|Otorrino|João|38698|1ª Consulta
+SA302|Médico9|Psiquiatra|Maria|72128|1ª Consulta
+SA303|Médico11|Endócrino|Ricardo|22306|1ª Consulta
+
+Consultas no dia 1 na 4ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|João|51238|1ª Consulta
+SA102|Médico2|Psicologia|Maria|71568|1ª Consulta
+SA103|Médico4|Clinico Geral|Lucas|88132|1ª Consulta
+SA201|Médico6|Cardiologista|Pedro|42469|1ª Consulta
+SA202|Médico7|Cardiologista|Pedro|39372|1ª Consulta
+SA203|Médico8|Otorrino|João|32052|1ª Consulta
+SA301|Médico11|Endócrino|Pedro|98697|1ª Consulta
+SA302|Médico12|Endócrino|Fernanda|52075|1ª Consulta
+SA303|Médico13|Endócrino|Lucas|29427|1ª Consulta
+
+Consultas no dia 1 na 5ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|46302|1ª Consulta
+SA102|Médico4|Clinico Geral|Sofia|29243|1ª Consulta
+SA103|Médico5|Clinico Geral|Carlos|21608|1ª Consulta
+SA201|Médico6|Cardiologista|Sofia|76622|1ª Consulta
+SA202|Médico7|Cardiologista|Fernanda|94865|1ª Consulta
+SA203|Médico8|Otorrino|Lucas|39831|1ª Consulta
+SA301|Médico9|Psiquiatra|Pedro|17143|1ª Consulta
+SA302|Médico10|Psiquiatra|Ana|38937|1ª Consulta
+SA303|Médico11|Endócrino|Carlos|56098|1ª Consulta
+
+Consultas no dia 1 na 6ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Lucas|63316|1ª Consulta
+SA102|Médico4|Clinico Geral|Carlos|79993|1ª Consulta
+SA103|Médico5|Clinico Geral|Ana|77730|1ª Consulta
+SA201|Médico6|Cardiologista|Fernanda|48994|1ª Consulta
+SA202|Médico7|Cardiologista|Maria|86856|1ª Consulta
+SA203|Médico8|Otorrino|Sofia|10354|1ª Consulta
+SA301|Médico9|Psiquiatra|Fernanda|55257|1ª Consulta
+SA302|Médico10|Psiquiatra|Ricardo|39246|1ª Consulta
+SA303|Médico11|Endócrino|Carlos|53573|1ª Consulta
+
+Consultas no dia 1 na 7ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|26746|1ª Consulta
+SA102|Médico4|Clinico Geral|Lucas|68261|1ª Consulta
+SA103|Médico5|Clinico Geral|Carlos|34772|1ª Consulta
+SA201|Médico6|Cardiologista|Maria|89108|1ª Consulta
+SA202|Médico7|Cardiologista|João|69538|1ª Consulta
+SA203|Médico8|Otorrino|Beatriz|57896|1ª Consulta
+SA301|Médico9|Psiquiatra|Pedro|25818|1ª Consulta
+SA302|Médico10|Psiquiatra|Ana|56839|1ª Consulta
+SA303|Médico11|Endócrino|João|90044|1ª Consulta
+
+Consultas no dia 1 na 8ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico4|Clinico Geral|Beatriz|16712|1ª Consulta
+SA102|Médico5|Clinico Geral|Beatriz|84099|1ª Consulta
+SA103|Médico6|Cardiologista|Sofia|76387|1ª Consulta
+SA201|Médico7|Cardiologista|Ricardo|55454|1ª Consulta
+SA202|Médico8|Otorrino|Pedro|15163|1ª Consulta
+SA203|Médico9|Psiquiatra|Lucas|23524|1ª Consulta
+SA301|Médico10|Psiquiatra|Sofia|71821|1ª Consulta
+SA302|Médico11|Endócrino|Pedro|99223|1ª Consulta
+SA303|Médico12|Endócrino|João|48185|1ª Consulta
+
+paciente de ID:87395 faltou 1 vez e consulta postergada
+paciente de ID:79359 faltou 1 vez e consulta postergada
+Consultas no dia 2 na 1ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Lucas|94841|1ª Consulta
+SA102|Médico2|Psicologia|Ana|87395|1ª Consulta
+SA103|Médico4|Clinico Geral|Ana|53729|1ª Consulta
+SA201|Médico5|Clinico Geral|Carlos|92195|1ª Consulta
+SA202|Médico6|Cardiologista|Fernanda|10879|1ª Consulta
+SA203|Médico7|Cardiologista|Pedro|85029|1ª Consulta
+SA301|Médico8|Otorrino|Ana|46236|1ª Consulta
+SA302|Médico9|Psiquiatra|Lucas|41756|1ª Consulta
+SA303|Médico10|Psiquiatra|Maria|86580|1ª Consulta
+
+paciente de ID:74902 faltou 1 vez e consulta postergada
+Consultas no dia 2 na 2ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|99791|1ª Consulta
+SA102|Médico2|Psicologia|João|28814|1ª Consulta
+SA103|Médico3|Psicologia|Carlos|40576|1ª Consulta
+SA201|Médico4|Clinico Geral|Lucas|79359|1ª Consulta
+SA202|Médico6|Cardiologista|Pedro|69312|1ª Consulta
+SA203|Médico8|Otorrino|Ana|83582|1ª Consulta
+SA301|Médico9|Psiquiatra|Pedro|14907|1ª Consulta
+SA302|Médico10|Psiquiatra|Carlos|53810|1ª Consulta
+SA303|Médico11|Endócrino|Sofia|19351|1ª Consulta
+
+paciente de ID:78838 faltou 1 vez e consulta postergada
+Consultas no dia 2 na 3ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ricardo|91084|1ª Consulta
+SA102|Médico2|Psicologia|Pedro|90245|1ª Consulta
+SA103|Médico6|Cardiologista|Fernanda|73882|1ª Consulta
+SA201|Médico7|Cardiologista|Sofia|84609|1ª Consulta
+SA202|Médico8|Otorrino|Lucas|60965|1ª Consulta
+SA203|Médico9|Psiquiatra|Ricardo|80994|1ª Consulta
+SA301|Médico10|Psiquiatra|Maria|57393|1ª Consulta
+SA302|Médico11|Endócrino|Ana|74902|1ª Consulta
+SA303|Médico12|Endócrino|João|21519|1ª Consulta
+
+Consultas no dia 2 na 4ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|59951|1ª Consulta
+SA102|Médico2|Psicologia|Sofia|59264|1ª Consulta
+SA103|Médico4|Clinico Geral|Pedro|16510|1ª Consulta
+SA201|Médico6|Cardiologista|Lucas|37077|1ª Consulta
+SA202|Médico8|Otorrino|Ricardo|89195|1ª Consulta
+SA203|Médico9|Psiquiatra|Ricardo|93497|1ª Consulta
+SA301|Médico10|Psiquiatra|Maria|66136|1ª Consulta
+SA302|Médico11|Endócrino|Carlos|13335|1ª Consulta
+SA303|Médico12|Endócrino|João|56008|1ª Consulta
+
+paciente de ID:69236 faltou 1 vez e consulta postergada
+paciente de ID:37140 faltou 1 vez e consulta postergada
+Consultas no dia 2 na 5ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|João|86235|1ª Consulta
+SA102|Médico4|Clinico Geral|Pedro|72712|1ª Consulta
+SA103|Médico5|Clinico Geral|Maria|36168|1ª Consulta
+SA201|Médico6|Cardiologista|Beatriz|33679|1ª Consulta
+SA202|Médico7|Cardiologista|Pedro|17720|1ª Consulta
+SA203|Médico8|Otorrino|Maria|52376|1ª Consulta
+SA301|Médico9|Psiquiatra|Lucas|99559|1ª Consulta
+SA302|Médico10|Psiquiatra|Maria|78838|1ª Consulta
+SA303|Médico11|Endócrino|Lucas|96692|1ª Consulta
+
+Consultas no dia 2 na 6ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico4|Clinico Geral|Beatriz|61766|1ª Consulta
+SA102|Médico5|Clinico Geral|Lucas|35033|1ª Consulta
+SA103|Médico6|Cardiologista|Ricardo|75070|1ª Consulta
+SA201|Médico7|Cardiologista|Ana|26212|1ª Consulta
+SA202|Médico8|Otorrino|Ana|77999|1ª Consulta
+SA203|Médico9|Psiquiatra|Pedro|85318|1ª Consulta
+SA301|Médico10|Psiquiatra|Maria|69236|1ª Consulta
+SA302|Médico11|Endócrino|Fernanda|47807|1ª Consulta
+SA303|Médico12|Endócrino|Pedro|11732|1ª Consulta
+
+paciente de ID:68883 faltou 1 vez e consulta postergada
+Consultas no dia 2 na 7ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ana|90555|1ª Consulta
+SA102|Médico4|Clinico Geral|Ricardo|13812|1ª Consulta
+SA103|Médico5|Clinico Geral|Beatriz|69501|1ª Consulta
+SA201|Médico6|Cardiologista|Beatriz|52947|1ª Consulta
+SA202|Médico8|Otorrino|Carlos|71914|1ª Consulta
+SA203|Médico9|Psiquiatra|Carlos|87660|1ª Consulta
+SA301|Médico10|Psiquiatra|Fernanda|56346|1ª Consulta
+SA302|Médico11|Endócrino|Ana|66187|1ª Consulta
+SA303|Médico12|Endócrino|Lucas|33652|1ª Consulta
+
+Consultas no dia 2 na 8ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|46302|Retorno
+SA102|Médico2|Psicologia|Ana|20037|1ª Consulta
+SA103|Médico4|Clinico Geral|Carlos|77959|1ª Consulta
+SA201|Médico5|Clinico Geral|Pedro|32428|1ª Consulta
+SA202|Médico6|Cardiologista|Ana|75096|1ª Consulta
+SA203|Médico7|Cardiologista|Fernanda|94865|Retorno
+SA301|Médico8|Otorrino|Carlos|37190|1ª Consulta
+SA302|Médico11|Endócrino|Ricardo|16170|1ª Consulta
+SA303|Médico12|Endócrino|Sofia|58565|1ª Consulta
+
+paciente de ID:53122 faltou 1 vez e consulta postergada
+Consultas no dia 3 na 1ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico4|Clinico Geral|Lucas|65426|1ª Consulta
+SA102|Médico5|Clinico Geral|Maria|37140|1ª Consulta
+SA103|Médico6|Cardiologista|Sofia|76622|Retorno
+SA201|Médico7|Cardiologista|Maria|71430|1ª Consulta
+SA202|Médico8|Otorrino|Pedro|19586|1ª Consulta
+SA203|Médico9|Psiquiatra|Beatriz|62196|1ª Consulta
+SA301|Médico11|Endócrino|Ricardo|10945|1ª Consulta
+SA302|Médico12|Endócrino|Fernanda|25349|1ª Consulta
+SA303|Médico13|Endócrino|Maria|68883|1ª Consulta
+
+Consultas no dia 3 na 2ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Fernanda|71855|1ª Consulta
+SA102|Médico2|Psicologia|Carlos|72008|1ª Consulta
+SA103|Médico3|Psicologia|Lucas|56851|1ª Consulta
+SA201|Médico4|Clinico Geral|Sofia|29243|Retorno
+SA202|Médico5|Clinico Geral|Carlos|21608|Retorno
+SA203|Médico6|Cardiologista|Maria|60503|1ª Consulta
+SA301|Médico7|Cardiologista|Lucas|78659|1ª Consulta
+SA302|Médico8|Otorrino|Lucas|29756|1ª Consulta
+SA303|Médico9|Psiquiatra|Sofia|94066|1ª Consulta
+
+Consultas no dia 3 na 3ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Sofia|93742|1ª Consulta
+SA102|Médico2|Psicologia|Sofia|52191|1ª Consulta
+SA103|Médico4|Clinico Geral|Maria|64761|1ª Consulta
+SA201|Médico5|Clinico Geral|Maria|66020|1ª Consulta
+SA202|Médico6|Cardiologista|Lucas|17068|1ª Consulta
+SA203|Médico8|Otorrino|Pedro|19595|1ª Consulta
+SA301|Médico9|Psiquiatra|Pedro|96920|1ª Consulta
+SA302|Médico11|Endócrino|Ana|90226|1ª Consulta
+SA303|Médico12|Endócrino|Sofia|49348|1ª Consulta
+
+paciente de ID:17143 faltou 1 vez e consulta postergada
+paciente de ID:79203 faltou 1 vez e consulta postergada
+Consultas no dia 3 na 4ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ricardo|71910|1ª Consulta
+SA102|Médico2|Psicologia|Ana|15711|1ª Consulta
+SA103|Médico4|Clinico Geral|Pedro|17964|1ª Consulta
+SA201|Médico5|Clinico Geral|Lucas|86913|1ª Consulta
+SA202|Médico6|Cardiologista|Ricardo|57755|1ª Consulta
+SA203|Médico7|Cardiologista|Carlos|98786|1ª Consulta
+SA301|Médico8|Otorrino|Beatriz|46544|1ª Consulta
+SA302|Médico9|Psiquiatra|Sofia|26672|1ª Consulta
+SA303|Médico10|Psiquiatra|Fernanda|60817|1ª Consulta
+
+Consultas no dia 3 na 5ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Fernanda|96337|1ª Consulta
+SA102|Médico2|Psicologia|Carlos|11739|1ª Consulta
+SA103|Médico3|Psicologia|Carlos|36079|1ª Consulta
+SA201|Médico4|Clinico Geral|Pedro|49412|1ª Consulta
+SA202|Médico5|Clinico Geral|João|77235|1ª Consulta
+SA203|Médico6|Cardiologista|Maria|69498|1ª Consulta
+SA301|Médico8|Otorrino|Sofia|79211|1ª Consulta
+SA302|Médico9|Psiquiatra|Pedro|17143|Retorno
+SA303|Médico10|Psiquiatra|Carlos|46895|1ª Consulta
+
+paciente de ID:19295 faltou 1 vez e consulta postergada
+Consultas no dia 3 na 6ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|79203|1ª Consulta
+SA102|Médico4|Clinico Geral|Lucas|91854|1ª Consulta
+SA103|Médico5|Clinico Geral|João|71382|1ª Consulta
+SA201|Médico8|Otorrino|Ana|78084|1ª Consulta
+SA202|Médico9|Psiquiatra|Pedro|91173|1ª Consulta
+SA203|Médico10|Psiquiatra|Fernanda|58533|1ª Consulta
+SA301|Médico11|Endócrino|Sofia|93584|1ª Consulta
+SA302|Médico12|Endócrino|Maria|84028|1ª Consulta
+SA303|Médico13|Endócrino|Fernanda|76540|1ª Consulta
+
+paciente de ID:65981 faltou 1 vez e consulta postergada
+Consultas no dia 3 na 7ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|73137|1ª Consulta
+SA102|Médico4|Clinico Geral|Maria|22729|1ª Consulta
+SA103|Médico5|Clinico Geral|Fernanda|19295|1ª Consulta
+SA201|Médico6|Cardiologista|Ana|56920|1ª Consulta
+SA202|Médico8|Otorrino|Pedro|48008|1ª Consulta
+SA203|Médico9|Psiquiatra|Sofia|29118|1ª Consulta
+SA301|Médico11|Endócrino|Pedro|21993|1ª Consulta
+SA302|Médico12|Endócrino|Lucas|49324|1ª Consulta
+SA303|Médico13|Endócrino|Sofia|50240|1ª Consulta
+
+Consultas no dia 3 na 8ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|99667|1ª Consulta
+SA102|Médico2|Psicologia|Fernanda|32295|1ª Consulta
+SA103|Médico4|Clinico Geral|Pedro|78674|1ª Consulta
+SA201|Médico5|Clinico Geral|Lucas|42783|1ª Consulta
+SA202|Médico6|Cardiologista|Fernanda|14086|1ª Consulta
+SA203|Médico7|Cardiologista|Fernanda|44385|1ª Consulta
+SA301|Médico8|Otorrino|Beatriz|70568|1ª Consulta
+SA302|Médico9|Psiquiatra|João|42104|1ª Consulta
+SA303|Médico11|Endócrino|Ricardo|18025|1ª Consulta
+
+Consultas no dia 4 na 1ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|38513|1ª Consulta
+SA102|Médico4|Clinico Geral|Sofia|90220|1ª Consulta
+SA103|Médico5|Clinico Geral|Pedro|12771|1ª Consulta
+SA201|Médico8|Otorrino|Carlos|79057|1ª Consulta
+SA202|Médico9|Psiquiatra|João|38680|1ª Consulta
+SA203|Médico10|Psiquiatra|Ana|38937|Retorno
+SA301|Médico11|Endócrino|Carlos|56098|Retorno
+SA302|Médico12|Endócrino|Sofia|28130|1ª Consulta
+SA303|Médico13|Endócrino|Fernanda|72612|1ª Consulta
+
+Consultas no dia 4 na 2ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ricardo|19988|1ª Consulta
+SA102|Médico4|Clinico Geral|Sofia|74092|1ª Consulta
+SA103|Médico5|Clinico Geral|Ana|11945|1ª Consulta
+SA201|Médico6|Cardiologista|Maria|88407|1ª Consulta
+SA202|Médico7|Cardiologista|Pedro|19337|1ª Consulta
+SA203|Médico8|Otorrino|Ana|20638|1ª Consulta
+SA301|Médico9|Psiquiatra|Carlos|30491|1ª Consulta
+SA302|Médico10|Psiquiatra|Lucas|39817|1ª Consulta
+SA303|Médico11|Endócrino|Pedro|44668|1ª Consulta
+
+Consultas no dia 4 na 3ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|12626|1ª Consulta
+SA102|Médico4|Clinico Geral|Sofia|31692|1ª Consulta
+SA103|Médico5|Clinico Geral|Lucas|70569|1ª Consulta
+SA201|Médico6|Cardiologista|Pedro|35708|1ª Consulta
+SA202|Médico8|Otorrino|Lucas|39831|Retorno
+SA203|Médico9|Psiquiatra|Pedro|17858|1ª Consulta
+SA301|Médico11|Endócrino|Beatriz|86327|1ª Consulta
+SA302|Médico12|Endócrino|Beatriz|53655|1ª Consulta
+SA303|Médico13|Endócrino|Fernanda|76806|1ª Consulta
+
+Consultas no dia 4 na 4ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ana|88978|1ª Consulta
+SA102|Médico4|Clinico Geral|Ricardo|60287|1ª Consulta
+SA103|Médico5|Clinico Geral|João|36288|1ª Consulta
+SA201|Médico6|Cardiologista|Carlos|78153|1ª Consulta
+SA202|Médico7|Cardiologista|Sofia|29512|1ª Consulta
+SA203|Médico8|Otorrino|Beatriz|53122|1ª Consulta
+SA301|Médico9|Psiquiatra|Maria|62977|1ª Consulta
+SA302|Médico11|Endócrino|Ana|50593|1ª Consulta
+SA303|Médico12|Endócrino|Maria|65981|1ª Consulta
+
+paciente de ID:95603 faltou 1 vez e consulta postergada
+Consultas no dia 4 na 5ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Pedro|55452|1ª Consulta
+SA102|Médico2|Psicologia|Carlos|47801|1ª Consulta
+SA103|Médico3|Psicologia|Ana|75702|1ª Consulta
+SA201|Médico6|Cardiologista|Beatriz|27949|1ª Consulta
+SA202|Médico7|Cardiologista|Fernanda|75558|1ª Consulta
+SA203|Médico8|Otorrino|Lucas|48131|1ª Consulta
+SA301|Médico9|Psiquiatra|João|20585|1ª Consulta
+SA302|Médico11|Endócrino|Fernanda|74568|1ª Consulta
+SA303|Médico12|Endócrino|Lucas|95163|1ª Consulta
+
+paciente de ID:33758 faltou 1 vez e consulta postergada
+paciente de ID:30283 faltou 1 vez e consulta postergada
+Consultas no dia 4 na 6ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|João|76051|1ª Consulta
+SA102|Médico2|Psicologia|Pedro|70004|1ª Consulta
+SA103|Médico3|Psicologia|Beatriz|33758|1ª Consulta
+SA201|Médico4|Clinico Geral|Pedro|93139|1ª Consulta
+SA202|Médico5|Clinico Geral|Lucas|75449|1ª Consulta
+SA203|Médico6|Cardiologista|Ricardo|12365|1ª Consulta
+SA301|Médico7|Cardiologista|Ana|43277|1ª Consulta
+SA302|Médico8|Otorrino|Lucas|67609|1ª Consulta
+SA303|Médico11|Endócrino|Fernanda|49215|1ª Consulta
+
+paciente de ID:81439 faltou 1 vez e consulta postergada
+Consultas no dia 4 na 7ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Fernanda|96337|Retorno
+SA102|Médico4|Clinico Geral|Pedro|52472|1ª Consulta
+SA103|Médico6|Cardiologista|Maria|38743|Retorno
+SA201|Médico7|Cardiologista|Pedro|39372|Retorno
+SA202|Médico8|Otorrino|Beatriz|49493|1ª Consulta
+SA203|Médico9|Psiquiatra|Maria|72128|Retorno
+SA301|Médico10|Psiquiatra|Pedro|95028|1ª Consulta
+SA302|Médico11|Endócrino|Ricardo|22306|Retorno
+SA303|Médico12|Endócrino|Fernanda|52075|Retorno
+
+Consultas no dia 4 na 8ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Lucas|13191|Retorno
+SA102|Médico2|Psicologia|Carlos|45669|Retorno
+SA103|Médico4|Clinico Geral|Lucas|88132|Retorno
+SA201|Médico5|Clinico Geral|Ricardo|79419|Retorno
+SA202|Médico6|Cardiologista|Pedro|42469|Retorno
+SA203|Médico8|Otorrino|Ana|66336|1ª Consulta
+SA301|Médico9|Psiquiatra|Ricardo|48531|Retorno
+SA302|Médico11|Endócrino|Pedro|98697|Retorno
+SA303|Médico13|Endócrino|Lucas|29427|Retorno
+
+Consultas no dia 5 na 1ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|67576|Retorno
+SA102|Médico2|Psicologia|Maria|71568|Retorno
+SA103|Médico3|Psicologia|Carlos|48946|1ª Consulta
+SA201|Médico4|Clinico Geral|Beatriz|91515|Retorno
+SA202|Médico6|Cardiologista|Beatriz|54969|Retorno
+SA203|Médico7|Cardiologista|Carlos|53151|Retorno
+SA301|Médico8|Otorrino|João|78788|1ª Consulta
+SA302|Médico10|Psiquiatra|Lucas|64683|Retorno
+SA303|Médico11|Endócrino|Pedro|74476|Retorno
+
+Consultas no dia 5 na 2ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|João|51238|Retorno
+SA102|Médico2|Psicologia|Ana|35951|Retorno
+SA103|Médico3|Psicologia|Carlos|48942|1ª Consulta
+SA201|Médico4|Clinico Geral|Maria|66615|Retorno
+SA202|Médico5|Clinico Geral|Maria|35708|1ª Consulta
+SA203|Médico6|Cardiologista|Lucas|91957|1ª Consulta
+SA301|Médico7|Cardiologista|Carlos|48918|1ª Consulta
+SA302|Médico8|Otorrino|Ricardo|57335|1ª Consulta
+SA303|Médico9|Psiquiatra|Ana|49893|1ª Consulta
+
+Consultas no dia 5 na 3ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ana|42740|1ª Consulta
+SA102|Médico4|Clinico Geral|Maria|22729|Retorno
+SA103|Médico6|Cardiologista|Ana|35287|1ª Consulta
+SA201|Médico7|Cardiologista|João|33872|1ª Consulta
+SA202|Médico8|Otorrino|Sofia|23456|1ª Consulta
+SA203|Médico9|Psiquiatra|Carlos|39545|1ª Consulta
+SA301|Médico10|Psiquiatra|Lucas|79630|1ª Consulta
+SA302|Médico11|Endócrino|Beatriz|19310|1ª Consulta
+SA303|Médico12|Endócrino|Sofia|28130|Retorno
+
+paciente de ID:90220 faltou 1 vez e consulta postergada
+Consultas no dia 5 na 4ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|89998|1ª Consulta
+SA102|Médico2|Psicologia|Fernanda|32295|Retorno
+SA103|Médico3|Psicologia|Carlos|36079|Retorno
+SA201|Médico5|Clinico Geral|João|77235|Retorno
+SA202|Médico7|Cardiologista|Pedro|81439|Retorno
+SA203|Médico8|Otorrino|Ricardo|10550|1ª Consulta
+SA301|Médico9|Psiquiatra|Ana|45679|1ª Consulta
+SA302|Médico10|Psiquiatra|Carlos|18189|1ª Consulta
+SA303|Médico11|Endócrino|Sofia|93584|Retorno
+
+paciente de ID:91173 faltou 1 vez e consulta postergada
+paciente de ID:60817 faltou 1 vez e consulta postergada
+Consultas no dia 5 na 5ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|73137|Retorno
+SA102|Médico2|Psicologia|Ana|15711|Retorno
+SA103|Médico4|Clinico Geral|Lucas|91854|Retorno
+SA201|Médico5|Clinico Geral|Fernanda|19295|Retorno
+SA202|Médico7|Cardiologista|Fernanda|44385|Retorno
+SA203|Médico8|Otorrino|Ricardo|66331|1ª Consulta
+SA301|Médico9|Psiquiatra|Beatriz|30283|1ª Consulta
+SA302|Médico10|Psiquiatra|Fernanda|58533|Retorno
+SA303|Médico11|Endócrino|Ricardo|18025|Retorno
+
+Consultas no dia 5 na 6ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|99667|Retorno
+SA102|Médico2|Psicologia|Carlos|11739|Retorno
+SA103|Médico4|Clinico Geral|Sofia|90220|Retorno
+SA201|Médico5|Clinico Geral|Pedro|12771|Retorno
+SA202|Médico6|Cardiologista|Fernanda|14086|Retorno
+SA203|Médico8|Otorrino|Ana|42863|1ª Consulta
+SA301|Médico9|Psiquiatra|Sofia|26672|Retorno
+SA302|Médico10|Psiquiatra|Carlos|46895|Retorno
+SA303|Médico12|Endócrino|Maria|84028|Retorno
+
+Consultas no dia 5 na 7ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|26746|Retorno
+SA102|Médico4|Clinico Geral|Lucas|68261|Retorno
+SA103|Médico5|Clinico Geral|Lucas|86913|Retorno
+SA201|Médico6|Cardiologista|Ana|56920|Retorno
+SA202|Médico8|Otorrino|João|45689|1ª Consulta
+SA203|Médico9|Psiquiatra|João|42104|Retorno
+SA301|Médico11|Endócrino|Pedro|21993|Retorno
+SA302|Médico12|Endócrino|Lucas|49324|Retorno
+SA303|Médico13|Endócrino|Fernanda|76540|Retorno
+
+paciente de ID:69498 faltou 1 vez e consulta postergada
+Consultas no dia 5 na 8ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ricardo|71910|Retorno
+SA102|Médico4|Clinico Geral|Pedro|17964|Retorno
+SA103|Médico5|Clinico Geral|João|71382|Retorno
+SA201|Médico6|Cardiologista|Ricardo|57755|Retorno
+SA202|Médico7|Cardiologista|Carlos|98786|Retorno
+SA203|Médico8|Otorrino|Sofia|90842|1ª Consulta
+SA301|Médico9|Psiquiatra|Pedro|91173|Retorno
+SA302|Médico10|Psiquiatra|Fernanda|60817|Retorno
+SA303|Médico13|Endócrino|Sofia|50240|Retorno
+
+Consultas no dia 6 na 1ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|79203|Retorno
+SA102|Médico2|Psicologia|João|87259|1ª Consulta
+SA103|Médico4|Clinico Geral|Pedro|78674|Retorno
+SA201|Médico5|Clinico Geral|Lucas|42783|Retorno
+SA202|Médico8|Otorrino|Pedro|78406|1ª Consulta
+SA203|Médico9|Psiquiatra|João|38680|Retorno
+SA301|Médico10|Psiquiatra|Ana|20571|1ª Consulta
+SA302|Médico11|Endócrino|Maria|73898|1ª Consulta
+SA303|Médico13|Endócrino|Fernanda|72612|Retorno
+
+Consultas no dia 6 na 2ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|38513|Retorno
+SA102|Médico4|Clinico Geral|Pedro|49412|Retorno
+SA103|Médico5|Clinico Geral|Beatriz|57080|1ª Consulta
+SA201|Médico6|Cardiologista|Pedro|56384|1ª Consulta
+SA202|Médico7|Cardiologista|Beatriz|75668|1ª Consulta
+SA203|Médico8|Otorrino|Fernanda|95603|1ª Consulta
+SA301|Médico9|Psiquiatra|Sofia|29118|Retorno
+SA302|Médico10|Psiquiatra|Maria|65923|1ª Consulta
+SA303|Médico11|Endócrino|Ricardo|97770|1ª Consulta
+
+paciente de ID:21519 faltou 1 vez e consulta postergada
+paciente de ID:84609 faltou 1 vez e consulta postergada
+Consultas no dia 6 na 3ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico3|Psicologia|Lucas|56851|Retorno
+SA102|Médico4|Clinico Geral|Maria|98720|1ª Consulta
+SA103|Médico5|Clinico Geral|Ana|77730|Retorno
+SA201|Médico6|Cardiologista|Maria|69498|Retorno
+SA202|Médico7|Cardiologista|Pedro|17720|Retorno
+SA203|Médico8|Otorrino|Pedro|33803|1ª Consulta
+SA301|Médico9|Psiquiatra|Ricardo|25259|1ª Consulta
+SA302|Médico10|Psiquiatra|Fernanda|56526|1ª Consulta
+SA303|Médico12|Endócrino|Lucas|33652|Retorno
+
+Consultas no dia 6 na 4ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico2|Psicologia|Pedro|90245|Retorno
+SA102|Médico4|Clinico Geral|Maria|64761|Retorno
+SA103|Médico6|Cardiologista|Pedro|69312|Retorno
+SA201|Médico7|Cardiologista|Pedro|85029|Retorno
+SA202|Médico8|Otorrino|Beatriz|70568|Retorno
+SA203|Médico9|Psiquiatra|Pedro|63493|1ª Consulta
+SA301|Médico10|Psiquiatra|Beatriz|51812|1ª Consulta
+SA302|Médico11|Endócrino|Ricardo|10945|Retorno
+SA303|Médico12|Endócrino|João|21519|Retorno
+
+paciente de ID:58565 faltou 1 vez e consulta postergada
+Consultas no dia 6 na 5ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico2|Psicologia|Ana|20037|Retorno
+SA102|Médico4|Clinico Geral|Ana|53729|Retorno
+SA103|Médico5|Clinico Geral|Maria|36168|Retorno
+SA201|Médico6|Cardiologista|Maria|89108|Retorno
+SA202|Médico7|Cardiologista|Sofia|84609|Retorno
+SA203|Médico8|Otorrino|João|32052|Retorno
+SA301|Médico9|Psiquiatra|Pedro|25818|Retorno
+SA302|Médico10|Psiquiatra|Maria|86580|Retorno
+SA303|Médico12|Endócrino|Fernanda|25349|Retorno
+
+Consultas no dia 6 na 6ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico2|Psicologia|Sofia|52191|Retorno
+SA102|Médico4|Clinico Geral|Carlos|77959|Retorno
+SA103|Médico5|Clinico Geral|Maria|66020|Retorno
+SA201|Médico6|Cardiologista|Fernanda|48994|Retorno
+SA202|Médico7|Cardiologista|Maria|71430|Retorno
+SA203|Médico8|Otorrino|João|38698|Retorno
+SA301|Médico9|Psiquiatra|Pedro|14907|Retorno
+SA302|Médico10|Psiquiatra|Maria|78838|Retorno
+SA303|Médico11|Endócrino|Pedro|99223|Retorno
+
+Consultas no dia 6 na 7ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ana|90555|Retorno
+SA102|Médico5|Clinico Geral|Maria|37140|Retorno
+SA103|Médico6|Cardiologista|Fernanda|73882|Retorno
+SA201|Médico7|Cardiologista|Ana|26212|Retorno
+SA202|Médico8|Otorrino|João|35194|Retorno
+SA203|Médico9|Psiquiatra|Ricardo|80994|Retorno
+SA301|Médico10|Psiquiatra|Maria|57393|Retorno
+SA302|Médico11|Endócrino|Ana|90226|Retorno
+SA303|Médico12|Endócrino|João|48185|Retorno
+
+paciente de ID:13335 faltou 1 vez e consulta postergada
+Consultas no dia 6 na 8ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|João|86235|Retorno
+SA102|Médico4|Clinico Geral|Pedro|16510|Retorno
+SA103|Médico5|Clinico Geral|Beatriz|84099|Retorno
+SA201|Médico6|Cardiologista|Sofia|76387|Retorno
+SA202|Médico8|Otorrino|Carlos|25576|1ª Consulta
+SA203|Médico9|Psiquiatra|Fernanda|55257|Retorno
+SA301|Médico10|Psiquiatra|Maria|69236|Retorno
+SA302|Médico11|Endócrino|Ana|74902|Retorno
+SA303|Médico12|Endócrino|Sofia|58565|Retorno
+
+Consultas no dia 7 na 1ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Lucas|94841|Retorno
+SA102|Médico2|Psicologia|Ana|87395|Retorno
+SA103|Médico4|Clinico Geral|Ricardo|13812|Retorno
+SA201|Médico6|Cardiologista|Beatriz|33679|Retorno
+SA202|Médico7|Cardiologista|Maria|86856|Retorno
+SA203|Médico8|Otorrino|Ana|30819|1ª Consulta
+SA301|Médico9|Psiquiatra|Ricardo|93497|Retorno
+SA302|Médico11|Endócrino|Fernanda|47807|Retorno
+SA303|Médico12|Endócrino|Pedro|11732|Retorno
+
+paciente de ID:40576 faltou 1 vez e consulta postergada
+Consultas no dia 7 na 2ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Sofia|93742|Retorno
+SA102|Médico4|Clinico Geral|Beatriz|16712|Retorno
+SA103|Médico5|Clinico Geral|Carlos|92195|Retorno
+SA201|Médico6|Cardiologista|Lucas|37077|Retorno
+SA202|Médico8|Otorrino|Pedro|48008|Retorno
+SA203|Médico9|Psiquiatra|Lucas|23524|Retorno
+SA301|Médico10|Psiquiatra|Maria|66136|Retorno
+SA302|Médico11|Endócrino|Carlos|13335|Retorno
+SA303|Médico12|Endócrino|João|56008|Retorno
+
+Consultas no dia 7 na 3ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|99791|Retorno
+SA102|Médico4|Clinico Geral|Lucas|79359|Retorno
+SA103|Médico5|Clinico Geral|Lucas|35033|Retorno
+SA201|Médico6|Cardiologista|Lucas|17068|Retorno
+SA202|Médico7|Cardiologista|Ricardo|55454|Retorno
+SA203|Médico8|Otorrino|Beatriz|46544|Retorno
+SA301|Médico9|Psiquiatra|Beatriz|62196|Retorno
+SA302|Médico10|Psiquiatra|Ricardo|39246|Retorno
+SA303|Médico11|Endócrino|João|90044|Retorno
+
+Consultas no dia 7 na 4ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ricardo|91084|Retorno
+SA102|Médico2|Psicologia|Carlos|72008|Retorno
+SA103|Médico4|Clinico Geral|Beatriz|61766|Retorno
+SA201|Médico5|Clinico Geral|Beatriz|69501|Retorno
+SA202|Médico6|Cardiologista|Ricardo|75070|Retorno
+SA203|Médico8|Otorrino|Sofia|79211|Retorno
+SA301|Médico9|Psiquiatra|Pedro|85318|Retorno
+SA302|Médico10|Psiquiatra|Sofia|71821|Retorno
+SA303|Médico11|Endócrino|Lucas|96692|Retorno
+
+Consultas no dia 7 na 5ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|59951|Retorno
+SA102|Médico2|Psicologia|Sofia|59264|Retorno
+SA103|Médico4|Clinico Geral|Pedro|72712|Retorno
+SA201|Médico5|Clinico Geral|Carlos|34772|Retorno
+SA202|Médico6|Cardiologista|Maria|60503|Retorno
+SA203|Médico8|Otorrino|Ana|78084|Retorno
+SA301|Médico9|Psiquiatra|Lucas|99559|Retorno
+SA302|Médico10|Psiquiatra|Carlos|53810|Retorno
+SA303|Médico11|Endócrino|Ana|66187|Retorno
+
+paciente de ID:65426 faltou 1 vez e consulta postergada
+Consultas no dia 7 na 6ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Lucas|63316|Retorno
+SA102|Médico3|Psicologia|Carlos|40576|Retorno
+SA103|Médico4|Clinico Geral|Carlos|79993|Retorno
+SA201|Médico7|Cardiologista|Lucas|78659|Retorno
+SA202|Médico8|Otorrino|Carlos|79057|Retorno
+SA203|Médico9|Psiquiatra|Sofia|94066|Retorno
+SA301|Médico10|Psiquiatra|Fernanda|56346|Retorno
+SA302|Médico11|Endócrino|Ricardo|16170|Retorno
+SA303|Médico13|Endócrino|Maria|68883|Retorno
+
+Consultas no dia 7 na 7ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Fernanda|71855|Retorno
+SA102|Médico2|Psicologia|João|28814|Retorno
+SA103|Médico5|Clinico Geral|Pedro|32428|Retorno
+SA201|Médico6|Cardiologista|Fernanda|10879|Retorno
+SA202|Médico8|Otorrino|Ricardo|90547|1ª Consulta
+SA203|Médico9|Psiquiatra|Carlos|87660|Retorno
+SA301|Médico10|Psiquiatra|Ana|56839|Retorno
+SA302|Médico11|Endócrino|Sofia|19351|Retorno
+SA303|Médico12|Endócrino|Sofia|49348|Retorno
+
+paciente de ID:20722 faltou 1 vez e consulta postergada
+Consultas no dia 7 na 8ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|42908|Retorno
+SA102|Médico2|Psicologia|Beatriz|93809|Retorno
+SA103|Médico4|Clinico Geral|Lucas|65426|Retorno
+SA201|Médico6|Cardiologista|Beatriz|52947|Retorno
+SA202|Médico7|Cardiologista|João|69538|Retorno
+SA203|Médico8|Otorrino|Sofia|24183|1ª Consulta
+SA301|Médico9|Psiquiatra|Lucas|41756|Retorno
+SA302|Médico10|Psiquiatra|Maria|21071|Retorno
+SA303|Médico11|Endócrino|Carlos|53573|Retorno
+
+paciente de ID:60783 faltou 1 vez e consulta postergada
+Consultas no dia 8 na 1ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Fernanda|12249|1ª Consulta
+SA102|Médico2|Psicologia|Maria|13690|1ª Consulta
+SA103|Médico4|Clinico Geral|Beatriz|11239|Retorno
+SA201|Médico5|Clinico Geral|Ricardo|20722|Retorno
+SA202|Médico6|Cardiologista|Ana|75096|Retorno
+SA203|Médico7|Cardiologista|Sofia|28576|1ª Consulta
+SA301|Médico8|Otorrino|Ana|77999|Retorno
+SA302|Médico9|Psiquiatra|Pedro|96920|Retorno
+SA303|Médico10|Psiquiatra|Lucas|67927|1ª Consulta
+
+Consultas no dia 8 na 2ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|João|17066|1ª Consulta
+SA102|Médico2|Psicologia|Ana|45102|1ª Consulta
+SA103|Médico4|Clinico Geral|Sofia|17459|1ª Consulta
+SA201|Médico6|Cardiologista|Carlos|43498|Retorno
+SA202|Médico7|Cardiologista|Lucas|17790|1ª Consulta
+SA203|Médico8|Otorrino|Sofia|10354|Retorno
+SA301|Médico9|Psiquiatra|Ricardo|75476|Retorno
+SA302|Médico10|Psiquiatra|Fernanda|72123|1ª Consulta
+SA303|Médico11|Endócrino|Maria|73898|Retorno
+
+paciente de ID:50426 faltou 1 vez e consulta postergada
+paciente de ID:20585 faltou 1 vez e consulta postergada
+Consultas no dia 8 na 3ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico2|Psicologia|João|87259|Retorno
+SA102|Médico3|Psicologia|Carlos|48946|Retorno
+SA103|Médico5|Clinico Geral|Maria|35708|Retorno
+SA201|Médico6|Cardiologista|Sofia|23100|1ª Consulta
+SA202|Médico7|Cardiologista|João|15274|1ª Consulta
+SA203|Médico8|Otorrino|Lucas|29756|Retorno
+SA301|Médico9|Psiquiatra|Ana|67146|1ª Consulta
+SA302|Médico10|Psiquiatra|Ana|20571|Retorno
+SA303|Médico11|Endócrino|Carlos|90839|1ª Consulta
+
+Consultas no dia 8 na 4ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|24672|1ª Consulta
+SA102|Médico3|Psicologia|Carlos|48942|Retorno
+SA103|Médico4|Clinico Geral|Sofia|55458|1ª Consulta
+SA201|Médico5|Clinico Geral|Sofia|12950|1ª Consulta
+SA202|Médico6|Cardiologista|João|20476|1ª Consulta
+SA203|Médico7|Cardiologista|Carlos|48918|Retorno
+SA301|Médico8|Otorrino|Lucas|60965|Retorno
+SA302|Médico9|Psiquiatra|Sofia|50967|1ª Consulta
+SA303|Médico11|Endócrino|Fernanda|77176|1ª Consulta
+
+Consultas no dia 8 na 5ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ricardo|88599|1ª Consulta
+SA102|Médico2|Psicologia|Ricardo|70116|1ª Consulta
+SA103|Médico4|Clinico Geral|Pedro|99181|1ª Consulta
+SA201|Médico6|Cardiologista|Lucas|91957|Retorno
+SA202|Médico8|Otorrino|Ricardo|89195|Retorno
+SA203|Médico9|Psiquiatra|Ana|95099|1ª Consulta
+SA301|Médico11|Endócrino|Pedro|49553|1ª Consulta
+SA302|Médico12|Endócrino|João|35756|1ª Consulta
+SA303|Médico13|Endócrino|João|17419|1ª Consulta
+
+Consultas no dia 8 na 6ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ana|84025|1ª Consulta
+SA102|Médico2|Psicologia|Pedro|22525|1ª Consulta
+SA103|Médico3|Psicologia|Maria|11859|1ª Consulta
+SA201|Médico4|Clinico Geral|Lucas|77729|1ª Consulta
+SA202|Médico6|Cardiologista|Ana|95141|1ª Consulta
+SA203|Médico7|Cardiologista|Carlos|61248|1ª Consulta
+SA301|Médico8|Otorrino|Pedro|19586|Retorno
+SA302|Médico9|Psiquiatra|Pedro|15897|1ª Consulta
+SA303|Médico11|Endócrino|João|46498|1ª Consulta
+
+paciente de ID:64815 faltou 1 vez e consulta postergada
+Consultas no dia 8 na 7ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Lucas|46923|1ª Consulta
+SA102|Médico4|Clinico Geral|Pedro|34910|1ª Consulta
+SA103|Médico5|Clinico Geral|Maria|11137|1ª Consulta
+SA201|Médico6|Cardiologista|Ana|52131|1ª Consulta
+SA202|Médico7|Cardiologista|Sofia|11845|1ª Consulta
+SA203|Médico8|Otorrino|Pedro|15163|Retorno
+SA301|Médico9|Psiquiatra|Ana|49893|Retorno
+SA302|Médico10|Psiquiatra|Sofia|10018|1ª Consulta
+SA303|Médico11|Endócrino|Pedro|60783|Retorno
+
+paciente de ID:12365 faltou 1 vez e consulta postergada
+Consultas no dia 8 na 8ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|46095|1ª Consulta
+SA102|Médico2|Psicologia|Pedro|70004|Retorno
+SA103|Médico3|Psicologia|Beatriz|33758|Retorno
+SA201|Médico4|Clinico Geral|Pedro|93139|Retorno
+SA202|Médico5|Clinico Geral|Lucas|75449|Retorno
+SA203|Médico8|Otorrino|Pedro|19595|Retorno
+SA301|Médico9|Psiquiatra|Pedro|15897|Retorno
+SA302|Médico11|Endócrino|Lucas|64815|1ª Consulta
+SA303|Médico12|Endócrino|Lucas|95163|Retorno
+
+Consultas no dia 9 na 1ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|João|76051|Retorno
+SA102|Médico2|Psicologia|Carlos|47801|Retorno
+SA103|Médico3|Psicologia|Ana|75702|Retorno
+SA201|Médico4|Clinico Geral|Pedro|52472|Retorno
+SA202|Médico6|Cardiologista|Beatriz|27949|Retorno
+SA203|Médico8|Otorrino|Carlos|71914|Retorno
+SA301|Médico9|Psiquiatra|João|20585|Retorno
+SA302|Médico10|Psiquiatra|Pedro|95028|Retorno
+SA303|Médico11|Endócrino|Fernanda|74568|Retorno
+
+paciente de ID:81368 faltou 1 vez e consulta postergada
+paciente de ID:71713 faltou 1 vez e consulta postergada
+Consultas no dia 9 na 2ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Pedro|55452|Retorno
+SA102|Médico2|Psicologia|Pedro|51470|1ª Consulta
+SA103|Médico4|Clinico Geral|Fernanda|95270|1ª Consulta
+SA201|Médico5|Clinico Geral|Ana|74942|1ª Consulta
+SA202|Médico6|Cardiologista|Ricardo|12365|Retorno
+SA203|Médico7|Cardiologista|Ana|43277|Retorno
+SA301|Médico8|Otorrino|Ana|46236|Retorno
+SA302|Médico9|Psiquiatra|João|59932|1ª Consulta
+SA303|Médico11|Endócrino|Fernanda|49215|Retorno
+
+Consultas no dia 9 na 3ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|99636|1ª Consulta
+SA102|Médico2|Psicologia|Maria|13002|1ª Consulta
+SA103|Médico4|Clinico Geral|Ricardo|24727|1ª Consulta
+SA201|Médico6|Cardiologista|Sofia|42984|1ª Consulta
+SA202|Médico7|Cardiologista|Fernanda|75558|Retorno
+SA203|Médico8|Otorrino|Beatriz|57896|Retorno
+SA301|Médico9|Psiquiatra|Carlos|39545|Retorno
+SA302|Médico10|Psiquiatra|Carlos|18189|Retorno
+SA303|Médico11|Endócrino|Beatriz|19310|Retorno
+
+Consultas no dia 9 na 4ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ana|42740|Retorno
+SA102|Médico2|Psicologia|Ana|45102|Retorno
+SA103|Médico4|Clinico Geral|Sofia|17459|Retorno
+SA201|Médico6|Cardiologista|Fernanda|81368|1ª Consulta
+SA202|Médico7|Cardiologista|João|33872|Retorno
+SA203|Médico8|Otorrino|Maria|52376|Retorno
+SA301|Médico9|Psiquiatra|Ana|45679|Retorno
+SA302|Médico10|Psiquiatra|Lucas|79630|Retorno
+SA303|Médico11|Endócrino|João|53289|1ª Consulta
+
+paciente de ID:72123 faltou 1 vez e consulta postergada
+paciente de ID:25576 faltou 1 vez e consulta postergada
+Consultas no dia 9 na 5ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|89998|Retorno
+SA102|Médico2|Psicologia|Fernanda|38681|1ª Consulta
+SA103|Médico4|Clinico Geral|Carlos|86061|1ª Consulta
+SA201|Médico5|Clinico Geral|Maria|80315|1ª Consulta
+SA202|Médico6|Cardiologista|Ana|35287|Retorno
+SA203|Médico7|Cardiologista|Lucas|17790|Retorno
+SA301|Médico8|Otorrino|Carlos|37190|Retorno
+SA302|Médico9|Psiquiatra|Beatriz|30283|Retorno
+SA303|Médico10|Psiquiatra|Fernanda|72123|Retorno
+
+Consultas no dia 9 na 6ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|João|17066|Retorno
+SA102|Médico2|Psicologia|Ricardo|68804|1ª Consulta
+SA103|Médico4|Clinico Geral|Pedro|85436|1ª Consulta
+SA201|Médico5|Clinico Geral|Fernanda|31954|1ª Consulta
+SA202|Médico7|Cardiologista|Beatriz|75668|Retorno
+SA203|Médico8|Otorrino|Ana|83582|Retorno
+SA301|Médico9|Psiquiatra|Maria|25338|1ª Consulta
+SA302|Médico10|Psiquiatra|Maria|34477|1ª Consulta
+SA303|Médico11|Endócrino|Beatriz|47869|1ª Consulta
+
+paciente de ID:56384 faltou 1 vez e consulta postergada
+paciente de ID:12626 faltou 1 vez e consulta postergada
+Consultas no dia 9 na 7ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico4|Clinico Geral|Ricardo|60287|Retorno
+SA102|Médico5|Clinico Geral|Beatriz|57080|Retorno
+SA103|Médico6|Cardiologista|Pedro|35708|Retorno
+SA201|Médico7|Cardiologista|Pedro|19337|Retorno
+SA202|Médico8|Otorrino|Ana|28409|Retorno
+SA203|Médico9|Psiquiatra|Fernanda|21301|1ª Consulta
+SA301|Médico10|Psiquiatra|Maria|65923|Retorno
+SA302|Médico11|Endócrino|Ricardo|97770|Retorno
+SA303|Médico13|Endócrino|Fernanda|76806|Retorno
+
+Consultas no dia 9 na 8ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ana|88978|Retorno
+SA102|Médico4|Clinico Geral|Sofia|31692|Retorno
+SA103|Médico6|Cardiologista|Carlos|78153|Retorno
+SA201|Médico7|Cardiologista|Sofia|29512|Retorno
+SA202|Médico8|Otorrino|Fernanda|93607|1ª Consulta
+SA203|Médico9|Psiquiatra|Carlos|30491|Retorno
+SA301|Médico10|Psiquiatra|Lucas|39817|Retorno
+SA302|Médico11|Endócrino|Pedro|44668|Retorno
+SA303|Médico12|Endócrino|Beatriz|53655|Retorno
+
+Consultas no dia 10 na 1ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ricardo|19988|Retorno
+SA102|Médico2|Psicologia|Ricardo|86874|1ª Consulta
+SA103|Médico4|Clinico Geral|Sofia|74092|Retorno
+SA201|Médico5|Clinico Geral|João|36288|Retorno
+SA202|Médico6|Cardiologista|Pedro|56384|Retorno
+SA203|Médico8|Otorrino|Ana|91655|1ª Consulta
+SA301|Médico9|Psiquiatra|Pedro|17858|Retorno
+SA302|Médico11|Endócrino|Ana|50593|Retorno
+SA303|Médico12|Endócrino|Maria|65981|Retorno
+
+Consultas no dia 10 na 2ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ana|84025|Retorno
+SA102|Médico2|Psicologia|Ricardo|68804|Retorno
+SA103|Médico5|Clinico Geral|Lucas|70569|Retorno
+SA201|Médico6|Cardiologista|Maria|88407|Retorno
+SA202|Médico7|Cardiologista|Carlos|61248|Retorno
+SA203|Médico8|Otorrino|Sofia|36273|1ª Consulta
+SA301|Médico9|Psiquiatra|Maria|62977|Retorno
+SA302|Médico10|Psiquiatra|Lucas|67927|Retorno
+SA303|Médico11|Endócrino|Beatriz|86327|Retorno
+
+paciente de ID:13690 faltou 1 vez e consulta postergada
+Consultas no dia 10 na 3ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|24672|Retorno
+SA102|Médico3|Psicologia|Maria|11859|Retorno
+SA103|Médico4|Clinico Geral|Lucas|77729|Retorno
+SA201|Médico5|Clinico Geral|Ana|11945|Retorno
+SA202|Médico7|Cardiologista|Sofia|11845|Retorno
+SA203|Médico8|Otorrino|Pedro|78406|Retorno
+SA301|Médico9|Psiquiatra|Ana|67146|Retorno
+SA302|Médico10|Psiquiatra|Sofia|10018|Retorno
+SA303|Médico11|Endócrino|Beatriz|47869|Retorno
+
+Consultas no dia 10 na 4ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Maria|12626|Retorno
+SA102|Médico4|Clinico Geral|Pedro|34910|Retorno
+SA103|Médico5|Clinico Geral|Sofia|12950|Retorno
+SA201|Médico6|Cardiologista|Ana|95141|Retorno
+SA202|Médico7|Cardiologista|Sofia|28576|Retorno
+SA203|Médico8|Otorrino|Fernanda|92844|1ª Consulta
+SA301|Médico9|Psiquiatra|Sofia|50967|Retorno
+SA302|Médico10|Psiquiatra|Maria|34477|Retorno
+SA303|Médico11|Endócrino|João|46498|Retorno
+
+Consultas no dia 10 na 5ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|46095|Retorno
+SA102|Médico2|Psicologia|Pedro|22525|Retorno
+SA103|Médico4|Clinico Geral|Sofia|55458|Retorno
+SA201|Médico5|Clinico Geral|Maria|11137|Retorno
+SA202|Médico6|Cardiologista|Sofia|23100|Retorno
+SA203|Médico7|Cardiologista|João|15274|Retorno
+SA301|Médico8|Otorrino|Sofia|50426|1ª Consulta
+SA302|Médico9|Psiquiatra|Maria|25338|Retorno
+SA303|Médico11|Endócrino|Fernanda|77176|Retorno
+
+paciente de ID:35756 faltou 1 vez e consulta postergada
+Consultas no dia 10 na 6ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Lucas|46923|Retorno
+SA102|Médico2|Psicologia|Carlos|55610|1ª Consulta
+SA103|Médico4|Clinico Geral|Pedro|85436|Retorno
+SA201|Médico5|Clinico Geral|Fernanda|31954|Retorno
+SA202|Médico6|Cardiologista|João|20476|Retorno
+SA203|Médico8|Otorrino|João|78788|Retorno
+SA301|Médico9|Psiquiatra|Ana|95099|Retorno
+SA302|Médico11|Endócrino|Lucas|64815|Retorno
+SA303|Médico12|Endócrino|Fernanda|96116|1ª Consulta
+
+Consultas no dia 10 na 7ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Fernanda|12249|Retorno
+SA102|Médico2|Psicologia|Ricardo|70116|Retorno
+SA103|Médico4|Clinico Geral|Pedro|99181|Retorno
+SA201|Médico5|Clinico Geral|João|13844|1ª Consulta
+SA202|Médico6|Cardiologista|Ana|52131|Retorno
+SA203|Médico8|Otorrino|Sofia|88022|1ª Consulta
+SA301|Médico10|Psiquiatra|Fernanda|56526|Retorno
+SA302|Médico11|Endócrino|Carlos|90839|Retorno
+SA303|Médico13|Endócrino|João|17419|Retorno
+
+Consultas no dia 10 na 8ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Ricardo|88599|Retorno
+SA102|Médico2|Psicologia|Ricardo|86874|Retorno
+SA103|Médico4|Clinico Geral|Maria|98720|Retorno
+SA201|Médico6|Cardiologista|Fernanda|81368|Retorno
+SA202|Médico7|Cardiologista|Lucas|23734|1ª Consulta
+SA203|Médico8|Otorrino|Maria|78573|1ª Consulta
+SA301|Médico9|Psiquiatra|Pedro|63493|Retorno
+SA302|Médico10|Psiquiatra|Beatriz|51812|Retorno
+SA303|Médico11|Endócrino|Pedro|49553|Retorno
+
+Consultas no dia 11 na 1ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico1|Psicologia|Beatriz|99636|Retorno
+SA102|Médico2|Psicologia|Fernanda|38681|Retorno
+SA103|Médico4|Clinico Geral|Carlos|86061|Retorno
+SA201|Médico5|Clinico Geral|Maria|80315|Retorno
+SA202|Médico8|Otorrino|Ricardo|57335|Retorno
+SA203|Médico9|Psiquiatra|Ricardo|25259|Retorno
+SA301|Médico10|Psiquiatra|Fernanda|46027|1ª Consulta
+SA302|Médico11|Endócrino|João|53289|Retorno
+SA303|Médico12|Endócrino|Ricardo|67653|1ª Consulta
+
+paciente de ID:67653 faltou 1 vez e consulta postergada
+paciente de ID:96116 faltou 1 vez e consulta postergada
+Consultas no dia 11 na 2ª hora:
+Sala___________|Médico_________|Especialidade__|Paciente_______|ID_do_Paciente__|Retorno_______
+
+SA101|Médico2|Psicologia|Maria|13690|Retorno
+SA102|Médico4|Clinico Geral|Fernanda|95270|Retorno
+SA103|Médico5|Clinico Geral|João|13844|Retorno
+SA201|Médico6|Cardiologista|Sofia|42984|Retorno
+SA202|Médico7|Cardiologista|Lucas|23734|Retorno
+SA203|Médico8|Otorrino|Ricardo|11406|1ª Consulta
+SA301|Médico9|Psiquiatra|Fernanda|21301|Retorno
+SA302|Médico10|Psiquiatra|Fernanda|46027|Retorno
+SA303|Médico12|Endócrino|João|35756|Retorno
+
+Medico__|Horas_Trabalhadas__
+Médico1 |72 h
+Médico2 |51 h
+Médico3 |16 h
+Médico4 |75 h
+Médico5 |61 h
+Médico6 |72 h
+Médico7 |56 h
+Médico8 |82 h
+Médico9 |77 h
+Médico10 |58 h
+Médico11 |70 h
+Médico12 |34 h
+Médico13 |14 h
