@@ -764,6 +764,7 @@ int main(){
     Heapmax_pacientes Fila_de_Prioridade;
     Vetor_Salas Salas_Hospital;
     Tabela_Especialidades Especialidades_Medicos(1);
+    //Utilizei 8 horas de trabalho diário, caso queria mudar é só modificar abaixo
     int horas_funcionamento_diario = 8;
     bool inf_lidas = false;
     vector<string> Informacoes; 
