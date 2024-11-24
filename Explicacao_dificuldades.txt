@@ -1,0 +1,15 @@
+Eu queria pode explicar melhor sobre como foi complicado pra mim esse código e porque não estou muito confortável em apresentá-lo incompleto
+
+Então, faz um tempo que fui diagnosticado com tdah, além de ter com lidar com outras questões também e tudo isso acabou bagunçando meu semestre
+tive tendo muita dificuldade para me organizar e estudar, o que sim, não só dificultou minhas provas, mas também a quando começar o projeto
+eu acabei demorando para iniciar o projeto(erro meu), além disso tive que lidar com outros projetos de outras matérias, oq prejudicou meu tempo.
+
+Mas principalmente nos últimos tempos, eu acabei formatando meu PC, oq resetou a build do VS code, que eu tive muito dificuldade de configurar e
+até aagora não consegui configurar direito, isso foi o que evitou do código sair mais organizado e modularizado, não só isso também tive várias 
+questões pessoais que me deixaram mais cansado ainda, junto com mais trabalhos e atividades de outras matérias, então foi uma enxurrada de coisa
+que dificultou esse meu código, essas coisas também são a explicação por eu ter feito só.
+
+Juntando tudo isso foi isso que eu consegui entregar até esse prazo final que o senhor estipulou, mesmo que tivesse mais tempo não teria como eu 
+mudar muita coisa porque tenho muita coisa de outras matérias ainda pra fazer, então queria pedir desculpas por não conseguir entregar tudo que
+o senhor pediu e nem seguindo certinho todas as regras estipuladas, espero que o senhor considere o que eu consegui implementar e entregar, mas
+ainda assim não acho que esse meu códgio é digno de ser apresentado, espero que o senhor consiga entender o código a partir do meu vídeo explicando.
