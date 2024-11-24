@@ -79,9 +79,13 @@ string gerarPacienteAleatorio(mt19937& gen, int prioridade, vector<string> Espec
 
 int main() {
     ofstream arquivo("dados.csv");
+    //Editar prioridade_max em caso de querer adionar mais pacientes
     int prioridade_max = 400;
+    //Editar o vetor Salas caso queria aumentar ou diminuir as salas
     vector<string> Salas = {"SA101","SA102","SA103", "SA201", "SA202", "SA203", "SA301", "SA302", "SA303"};
+    //Editar o vetor Especialidades caso queria aumentar ou diminuir especialidades
     vector<string> Especialidades = {"Psicologia","Clinico Geral","Cardiologista","Otorrino", "Psiquiatra", "Endócrino"};
+    //Se aumentar ou diminuir o vetor Especialidades, é necessário que o vetor abaixo tenha o mesmo tamanho
     vector<int> Quant_Medicos_por_especialidade = {3,2,2,1,2,3};
     mt19937 gen(time(0));
 
