@@ -1,0 +1,3 @@
+Sobre os códigos, estão especificadas as áreas onde podem ser feitas mudanças nas main, se quiser fazer alguma mudança, basicamente dar run na gerar_entrada e depois dar run na Codigo_Principal
+A Gerar_Entrada irá gerar um arquivo "dados.csv" no mesmo diretório onde Codigo_Principal está junto, que lhe dará acesso ao arquivo, que será lido e então a Codigo_Principal retorna um
+arquivo "Relatorio.csv" com o que foi pedido na explicação do trabalho prático.
